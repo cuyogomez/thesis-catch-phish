@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CatchPhish
+
+  Created by Claudio Gomez on 10/13/19.
+  Copyright © 2019 Claudio Gomez. All rights reserved.
+*/
+
+"alerts.phishing" = "Phishing Alert";
+"alerts.phishingMessage" = "You are accessing the site %@ through %@ application. We recommend to stop navigating in the site.";

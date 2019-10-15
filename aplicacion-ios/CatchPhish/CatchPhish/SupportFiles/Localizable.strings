@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  CatchPhish
+
+  Created by Claudio Gomez on 9/7/19.
+  Copyright © 2019 Claudio Gomez. All rights reserved.
+*/
+
+
+"master.option.catcher" = "Catcher";
+"master.option.settings" = "Settings";
+
+"catcher.enterURL" = "Enter URL to catch the Phish";
+"catcher.urlToAnalyze" = "URL to Analyze";
+"catcher.catchIt" = "Catch It";
+
+"settings.startFirewall" = "Start Phishing Detection";
+"settings.stopFirewall" = "Stop Phishing Detection";
+
+"alerts.phishing" = "Phishing Alert";
+"alerts.phishingMessage" = "You are accessing the site %@ through %@ application. We recommend to stop navigating in the site.";
+"alerts.ok" = "OK";
+"alerts.legitimate" = "Site Legitimate";
+"alerts.legitimateMessage" = "The site analyzed is legitimate. Don't worry about it.";
